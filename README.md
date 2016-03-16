@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+hi guys,
+this is my first ever comment on githib.
+woo this is so exciting!
